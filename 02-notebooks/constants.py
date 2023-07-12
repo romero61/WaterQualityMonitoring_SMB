@@ -9,4 +9,4 @@ PROJECT_PATH = os.path.dirname(SRC_PATH)
 
 # The larger study area to use for earth engine this study uses the coastline of the Santa Monica bay
 
-STUDY_BOUNDARY_PATH = os.path.join(SRC_PATH,'study_boundary.gpkg')
+STUDY_BOUNDARY_PATH = os.path.join(PROJECT_PATH,'00-data','study_boundary.gpkg')
