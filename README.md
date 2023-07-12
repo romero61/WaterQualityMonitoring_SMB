@@ -5,12 +5,7 @@ A collection of [Earth Engine web apps](https://romero61-waterqualitymonitoring-
 <img align="center" src="img/earthengine.png"  style="width: 280px; margin-right: 20px;" />
 <br clear="all" />
 
-<iframe
-	src="https://romero61-waterqualitymonitoring-smb.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
+
 
 
 # WaterQualityMonitoring_SMB
