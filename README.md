@@ -1,7 +1,7 @@
 
-# Eart Engine App
+# Earth Engine App
 
-A collection of [Earth Engine web apps](https://romero61-waterqualitymonitoring-smb.hf.space) developed using Solara and geemap
+A collection of [Earth Engine web apps](https://romero61-waterqualitymonitoring-smb.hf.space) developed using Solara and geemap.
 <img align="center" src="img/earthengine.png"  style="width: 280px; margin-right: 20px;" />
 <br clear="all" />
 
