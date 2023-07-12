@@ -1,9 +1,17 @@
 
-# Eart Enginen  App
+# Eart Engine App
 
 A collection of [Earth Engine web apps](https://romero61-waterqualitymonitoring-smb.hf.space) developed using Solara and geemap
 <img align="center" src="img/earthengine.png"  style="width: 280px; margin-right: 20px;" />
 <br clear="all" />
+
+<iframe
+	src="https://romero61-waterqualitymonitoring-smb.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
 
 # WaterQualityMonitoring_SMB
 Monitoring water quality in the Santa Monica Bay using Landsat 8 OLI satellite data
